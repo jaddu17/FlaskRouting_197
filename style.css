@@ -1,0 +1,66 @@
+body {
+    font-family: "Poppins", sans-serif; 
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: grey;
+}
+
+
+header {
+    background-color: lightskyblue;
+    color: grey;
+    padding: 1rem 0;
+    font-size: 1.5rem;
+}
+
+
+a {
+    text-decoration: none;
+    color: grey;
+    font-weight: 700;
+}
+
+
+button {
+    background-color: lightskyblue; 
+    border: none;
+    color: grey;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1rem; 
+    font-weight: 700; 
+}
+
+button:hover {
+    background-color: lightskyblue; 
+}
+
+form {
+    margin-top: 50px;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid grey;
+    border-radius: 5px;
+    font-size: 1rem; 
+    font-weight: 700; 
+}
+
+
+p {
+    margin: 10px 0;
+    font-size: 14px;
+    font-weight: 700; 
+}
+
+
+.hello {
+    font-style: italic;
+}
